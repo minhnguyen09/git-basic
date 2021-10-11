@@ -1,6 +1,6 @@
 <?php
 // Minh
-echo 'Line 0';
+echo 'Line abc';
 
 // Minh
 echo 'Line 3';
